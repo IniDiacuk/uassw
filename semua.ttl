@@ -1,0 +1,275 @@
+@prefix ig: <https://www.ign.fake/ig#> .
+@prefix gs: <https://www.GameSpot.fake/gs#> .
+@prefix ed: <https://www.edge.fake/ed#> .
+@prefix gr: <https://www.GamesRadar.fake/gr#> .
+
+<https://www.ign.fake/2012>
+  ig:pic "https://static.wikia.nocookie.net/jacksepticeye/images/3/31/Journey_logo.jpg/revision/latest?cb=20180710195238" ;
+  ig:title "Journey" ;
+  ig:developer "Thatgamecompany" ;
+  ig:genre "Adventure" ;
+  ig:release "13 Maret 2012" ;
+  ig:platform "iOS, Microsoft Windows, PlayStation 3, PlayStation 4" .
+
+<https://www.ign.fake/2013>
+  ig:pic "https://vgmsite.com/soundtracks/the-last-of-us-2013/the-last-of-us-wallpaper.jpg" ;
+  ig:title "The Last of Us" ;
+  ig:developer "Naughty Dog" ;
+  ig:genre "Action-adventure" ;
+  ig:release "14 Juni 2013" ;
+  ig:platform "PlayStation 3, PlayStation 4" .
+
+<https://www.ign.fake/2014>
+  ig:pic "https://sobatgame.com/wp-content/uploads/2019/09/Dragon-Age-Inquisition-1.jpg" ;
+  ig:title "Dragon Age: Inquisition" ;
+  ig:developer "Bioware" ;
+  ig:genre "Action role-playing" ;
+  ig:release "18 November 2014" ;
+  ig:platform "Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.ign.fake/2015>
+  ig:pic "https://jagatplay.com/wp-content/uploads/2014/12/the-witcher-31.jpg" ;
+  ig:title "The Witcher 3: Wild Hunt" ;
+  ig:developer "CD Projekt Red" ;
+  ig:genre "Action role-playing" ;
+  ig:release "19 Mei 2015" ;
+  ig:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
+
+<https://www.ign.fake/2016>
+  ig:pic "https://i2.wp.com/thatsgaming.nl/wp-content/uploads/2020/05/overwatch.jpg?fit=1920%2C1080&ssl=1" ;
+  ig:title "Overwatch" ;
+  ig:developer "Blizzard Entertainment" ;
+  ig:genre "First-person shooter" ;
+  ig:release "24 Mei 2016" ;
+  ig:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One" .
+
+<https://www.ign.fake/2017>
+  ig:pic "https://coolwallpapers.me/picsup/5782669-legend-zelda-breath-wild-hd-wallpapers.jpg" ;
+  ig:title "The Legend of Zelda: Breath of the Wild" ;
+  ig:developer "Nintendo EPD" ;
+  ig:genre "Action-adventure" ;
+  ig:release "3 Maret 2017" ;
+  ig:platform "Nintendo Switch, Wii U" .
+
+<https://www.ign.fake/2018>
+  ig:pic "https://www.hd-tecnologia.com/imagenes/articulos/2018/04/El-nuevo-God-of-War-se-muestra-en-un-gameplay.jpg" ;
+  ig:title "God of War" ;
+  ig:developer "Santa Monica Studio" ;
+  ig:genre "Action-adventure" ;
+  ig:release "20 April 2018" ;
+  ig:platform "Microsoft Windows, PlayStation 4" .
+
+<https://www.ign.fake/2019>
+  ig:pic "https://amelin.us/wp-content/uploads/2021/06/Control-Full-Version-Free-Download.jpg" ;
+  ig:title "Control" ;
+  ig:developer "Remedy Entertainment" ;
+  ig:genre "Action-adventure" ;
+  ig:release "27 Agustus 2019" ;
+  ig:platform "Luna, Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Stadia, Xbox One, Xbox Series X/S" .
+
+<https://www.ign.fake/2020>
+  ig:pic "https://student-activity.binus.ac.id/bgdc/wp-content/uploads/sites/66/2020/12/Switch_Hades_Hero.jpeg" ;
+  ig:title "Hades" ;
+  ig:developer "Supergiant Games" ;
+  ig:genre "Action role-playing" ;
+  ig:release "17 September 2020" ;
+  ig:platform "Microsoft Windows, macOS,  Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
+
+  <https://www.GameSpot.fake/2012>
+  gs:pic "https://static.wikia.nocookie.net/jacksepticeye/images/3/31/Journey_logo.jpg/revision/latest?cb=20180710195238" ;
+  gs:title "Journey" ;
+  gs:developer "Thatgamecompany" ;
+  gs:genre "Adventure" ;
+  gs:release "13 Maret 2012" ;
+  gs:platform "iOS, Microsoft Windows, PlayStation 3, PlayStation 4" .
+
+<https://www.GameSpot.fake/2013>
+  gs:pic "https://m.media-amazon.com/images/M/MV5BZDI2M2IwMDItOTU4MS00YzdjLWJmYjItMzA3MjJjMDk2YjBiXkEyXkFqcGdeQXVyNjY5NTM5MjA@._V1_.jpg" ;
+  gs:title "The Legend of Zelda: A Link Between Worlds" ;
+  gs:developer "Nintendo EAD" ;
+  gs:genre "Action-adventure" ;
+  gs:release "22 November 2013" ;
+  gs:platform "Nintendo 3DS" .
+
+<https://www.GameSpot.fake/2014>
+  gs:pic "https://wallpapercave.com/wp/wp1858791.jpg" ;
+  gs:title "Middle-earth: Shadow of Mordor" ;
+  gs:developer "Monolith Productions" ;
+  gs:genre "Action-adventure" ;
+  gs:release "30 September 2014" ;
+  gs:platform "Linux, Microsoft Windows, OS X, PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.GameSpot.fake/2015>
+  gs:pic "https://jagatplay.com/wp-content/uploads/2014/12/the-witcher-31.jpg" ;
+  gs:title "The Witcher 3: Wild Hunt" ;
+  gs:developer "CD Projekt Red" ;
+  gs:genre "Action role-playing" ;
+  gs:release "19 Mei 2015" ;
+  gs:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
+
+<https://www.GameSpot.fake/2016>
+  gs:pic "https://i2.wp.com/thatsgaming.nl/wp-content/uploads/2020/05/overwatch.jpg?fit=1920%2C1080&ssl=1" ;
+  gs:title "Overwatch" ;
+  gs:developer "Blizzard Entertainment" ;
+  gs:genre "First-person shooter" ;
+  gs:release "24 Mei 2016" ;
+  gs:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One" .
+
+<https://www.GameSpot.fake/2017>
+  gs:pic "https://coolwallpapers.me/picsup/5782669-legend-zelda-breath-wild-hd-wallpapers.jpg" ;
+  gs:title "The Legend of Zelda: Breath of the Wild" ;
+  gs:developer "Nintendo EPD" ;
+  gs:genre "Action-adventure" ;
+  gs:release "3 Maret 2017" ;
+  gs:platform "Nintendo Switch, Wii U" .
+
+<https://www.GameSpot.fake/2018>
+  gs:pic "https://i.redd.it/a7qlyr6n4nq31.png" ;
+  gs:title "Red Dead Redemption 2" ;
+  gs:developer "Rockstar Studios" ;
+  gs:genre "Action-adventure" ;
+  gs:release "26 Oktober 2018" ;
+  gs:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
+
+<https://www.GameSpot.fake/2019>
+  gs:pic "https://gamebrott.com/wp-content/uploads/2018/08/sekiro-shadows-die-twice-listing-thumb-01-ps4-us-21jun18.png" ;
+  gs:title "Sekiro: Shadows Die Twice" ;
+  gs:developer "FromSoftware" ;
+  gs:genre "Action-adventure" ;
+  gs:release "22 Maret 2019" ;
+  gs:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
+
+<https://www.GameSpot.fake/2020>
+  gs:pic "https://blog.gamesight.io/content/images/size/w2000/2020/03/tkDTohBQD2RwjoMnLReB5U.jpg" ;
+  gs:title "Half-Life: Alyx" ;
+  gs:developer "Valve" ;
+  gs:genre "First-person shooter" ;
+  gs:release "23 Maret 2020" ;
+  gs:platform "Linux, Microsoft Windows" .
+
+  <https://www.edge.fake/2012>
+  ed:pic "https://jagatplay.com/wp-content/uploads/2012/08/dishonored.jpg" ;
+  ed:title "Dishonored" ;
+  ed:developer "Arkane Studios" ;
+  ed:genre "Action-adventure" ;
+  ed:release "9 Oktober 2012" ;
+  ed:platform "Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.edge.fake/2013>
+  ed:pic "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/12/14/1427470620.jpg" ;
+  ed:title "Grand Theft Auto V" ;
+  ed:developer "Rockstar North" ;
+  ed:genre "Action-adventure" ;
+  ed:release "17 September 2013" ;
+  ed:platform "Microsoft Windows, PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S" .
+
+<https://www.edge.fake/2014>
+  ed:pic "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Bayonetta2_image1600w.jpg" ;
+  ed:title "Bayonetta 2" ;
+  ed:developer "PlatinumGames" ;
+  ed:genre "Action-adventure" ;
+  ed:release "20 September 2014" ;
+  ed:platform "Nintendo Switch, Wii U" .
+
+<https://www.edge.fake/2015>
+  ed:pic "https://image.api.playstation.com/vulcan/img/rnd/202010/2614/NVmnBXze9ElHzU6SmykrJLIV.png" ;
+  ed:title "Bloodborne" ;
+  ed:developer "FromSoftware" ;
+  ed:genre "Action role-playing" ;
+  ed:release "24 Maret 2015" ;
+  ed:platform "PlayStation 4" .
+
+<https://www.edge.fake/2016>
+  ed:pic "https://wallpaperaccess.com/full/1298629.jpg" ;
+  ed:title "The Last Guardian" ;
+  ed:developer "Japan Studio" ;
+  ed:genre "Action-adventure" ;
+  ed:release "6 December 2016" ;
+  ed:platform "PlayStation 4" .
+
+<https://www.edge.fake/2017>
+  ed:pic "https://coolwallpapers.me/picsup/5782669-legend-zelda-breath-wild-hd-wallpapers.jpg" ;
+  ed:title "The Legend of Zelda: Breath of the Wild" ;
+  ed:developer "Nintendo EPD" ;
+  ed:genre "Action-adventure" ;
+  ed:release "3 Maret 2017" ;
+  ed:platform "Nintendo Switch, Wii U" .
+
+<https://www.edge.fake/2018>
+  ed:pic "https://i.redd.it/a7qlyr6n4nq31.png" ;
+  ed:title "Red Dead Redemption 2" ;
+  ed:developer "Rockstar Studios" ;
+  ed:genre "Action-adventure" ;
+  ed:release "26 Oktober 2018" ;
+  ed:platform "Microsoft Windows, PlayStation 4, Stadia, Xbox One" .
+
+<https://www.edge.fake/2019>
+  ed:pic "https://www.dewa.gg/wp-content/uploads/2021/07/3f3f0488-39e1-4ea1-961f-725a39480706_OuterWilds_banner.jpg" ;
+  ed:title "Outer Wilds" ;
+  ed:developer "Mobius Digital" ;
+  ed:genre "Action-adventure" ;
+  ed:release "28 Mei 2019" ;
+  ed:platform "Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One" .
+
+<https://www.GamesRadar.fake/2012>
+  gr:pic "https://store-images.s-microsoft.com/image/apps.3182.13510798887515946.ec5efbc1-7eb9-481d-aadc-53df03e6d176.a53d619f-490a-48c4-988a-cf4adb243a26?mode=scale&q=90&h=1080&w=1920" ;
+  gr:title "The Walking Dead" ;
+  gr:developer "Telltale Games" ;
+  gr:genre "Graphic adventure" ;
+  gr:release "24 April 2012" ;
+  gr:platform "Android, iOS, Kindle Fire HDX, Linux, Microsoft Windows, Nintendo Switch, Ouya, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One" .
+
+<https://www.GamesRadar.fake/2013>
+  gr:pic "https://vgmsite.com/soundtracks/the-last-of-us-2013/the-last-of-us-wallpaper.jpg" ;
+  gr:title "The Last of Us" ;
+  gr:developer "Naughty Dog" ;
+  gr:genre "Action-adventure" ;
+  gr:release "14 Juni 2013" ;
+  gr:platform "PlayStation 3, PlayStation 4" .
+
+<https://www.GamesRadar.fake/2014>
+  gr:pic "https://gamebrott.com/wp-content/uploads/2015/08/rumor-Destiny-akan-Hadir-di-PC.jpg" ;
+  gr:title "Destiny" ;
+  gr:developer "Bungie" ;
+  gr:genre "First-person shooter" ;
+  gr:release "9 September 2014" ;
+  gr:platform "PlayStation 3, PlayStation 4, Xbox 360, Xbox One" .
+
+<https://www.GamesRadar.fake/2015>
+  gr:pic "https://cdn-ext.fanatical.com/production/product/1280x720/ae2c69cd-acfd-488e-a7cc-64737ff80f05.jpeg" ;
+  gr:title "Metal Gear Solid V: The Phantom Pain" ;
+  gr:developer "Kojima Productions" ;
+  gr:genre "Action-adventure" ;
+  gr:release "1 September 2015" ;
+  gr:platform "Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S" .
+
+<https://www.GamesRadar.fake/2016>
+  gr:pic "https://pemmzchannel.com/wp-content/uploads/2016/09/titanfall.jpg" ;
+  gr:title "Titanfall 2" ;
+  gr:developer "Respawn Entertainment" ;
+  gr:genre "Action-adventure" ;
+  gr:release "28 Oktober 2016" ;
+  gr:platform "Microsoft Windows, PlayStation 4, Xbox One" .
+
+<https://www.GamesRadar.fake/2017>
+  gr:pic "https://coolwallpapers.me/picsup/5782669-legend-zelda-breath-wild-hd-wallpapers.jpg" ;
+  gr:title "The Legend of Zelda: Breath of the Wild" ;
+  gr:developer "Nintendo EPD" ;
+  gr:genre "Action-adventure" ;
+  gr:release "3 Maret 2017" ;
+  gr:platform "Nintendo Switch, Wii U" .
+
+<https://www.GamesRadar.fake/2018>
+  gr:pic "https://www.hd-tecnologia.com/imagenes/articulos/2018/04/El-nuevo-God-of-War-se-muestra-en-un-gameplay.jpg" ;
+  gr:title "God of War" ;
+  gr:developer "Santa Monica Studio" ;
+  gr:genre "Action-adventure" ;
+  gr:release "20 April 2018" ;
+  gr:platform "Microsoft Windows, PlayStation 4" .
+
+<https://www.GamesRadar.fake/2019>
+  gr:pic "https://amelin.us/wp-content/uploads/2021/06/Control-Full-Version-Free-Download.jpg" ;
+  gr:developer "Remedy Entertainment" ;
+  gr:genre "Action-adventure" ;
+  gr:release "27 Agustus 2019" ;
+  gr:platform "Luna, Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Stadia, Xbox One, Xbox Series X/S" .
